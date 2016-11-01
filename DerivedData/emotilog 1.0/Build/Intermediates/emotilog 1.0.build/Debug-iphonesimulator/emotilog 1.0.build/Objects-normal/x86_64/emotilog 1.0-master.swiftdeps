@@ -1,0 +1,8 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "b4dabe31d9b54dd0a35d12ea6f149908"
+build_time: [531343509, 118954000]
+inputs:
+  "/Users/Trent/Desktop/Upload/Mobile/emotilog 1.0/emotilog 1.0/Item.swift": [531342819, 0]
+  "/Users/Trent/Desktop/Upload/Mobile/emotilog 1.0/emotilog 1.0/ViewController.swift": [531341802, 0]
+  "/Users/Trent/Desktop/Upload/Mobile/emotilog 1.0/emotilog 1.0/ItemsViewController.swift": [531342258, 0]
+  "/Users/Trent/Desktop/Upload/Mobile/emotilog 1.0/emotilog 1.0/AppDelegate.swift": [531341802, 0]

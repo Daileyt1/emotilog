@@ -1,0 +1,117 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Item"
+provides-nominal:
+- "C12emotilog_1_04Item"
+provides-member:
+- ["C12emotilog_1_04Item", ""]
+provides-dynamic-lookup:
+- "title"
+- "descriptionlog"
+- "dateCreated"
+- "emoji"
+depends-top-level:
+- "String"
+- "Item"
+- "NSObject"
+- !private "StringLiteralType"
+- "NSDate"
+depends-member:
+- !private ["Ps9AnyObject", "NSDate"]
+- ["Ps9AnyObject", "dateCreated"]
+- ["Ps9AnyObject", "descriptionlog"]
+- ["Ps9AnyObject", "emoji"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "title"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps11CVarArgType", "NSDate"]
+- ["Ps11CVarArgType", "dateCreated"]
+- ["Ps11CVarArgType", "descriptionlog"]
+- ["Ps11CVarArgType", "emoji"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "title"]
+- ["Ps11CVarArgType", ""]
+- !private ["Ps28CustomDebugStringConvertible", "NSDate"]
+- ["Ps28CustomDebugStringConvertible", "dateCreated"]
+- ["Ps28CustomDebugStringConvertible", "descriptionlog"]
+- ["Ps28CustomDebugStringConvertible", "emoji"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "title"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "NSDate"]
+- ["Ps23CustomStringConvertible", "dateCreated"]
+- ["Ps23CustomStringConvertible", "descriptionlog"]
+- ["Ps23CustomStringConvertible", "emoji"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "title"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "NSDate"]
+- ["Ps9Equatable", "dateCreated"]
+- ["Ps9Equatable", "descriptionlog"]
+- ["Ps9Equatable", "emoji"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "title"]
+- ["Ps9Equatable", ""]
+- !private ["Ps8Hashable", "NSDate"]
+- ["Ps8Hashable", "dateCreated"]
+- ["Ps8Hashable", "descriptionlog"]
+- ["Ps8Hashable", "emoji"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "title"]
+- ["Ps8Hashable", ""]
+- ["C12emotilog_1_04Item", "NSDate"]
+- ["C12emotilog_1_04Item", "String"]
+- ["C12emotilog_1_04Item", "dateCreated"]
+- ["C12emotilog_1_04Item", "deinit"]
+- ["C12emotilog_1_04Item", "descriptionlog"]
+- ["C12emotilog_1_04Item", "emoji"]
+- ["C12emotilog_1_04Item", "init"]
+- ["C12emotilog_1_04Item", "title"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["CSo6NSDate", "init"]
+- ["CSo8NSObject", "NSDate"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "dateCreated"]
+- ["CSo8NSObject", "descriptionlog"]
+- ["CSo8NSObject", "emoji"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "title"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "NSDate"]
+- ["PSo16NSObjectProtocol", "dateCreated"]
+- ["PSo16NSObjectProtocol", "descriptionlog"]
+- ["PSo16NSObjectProtocol", "emoji"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "title"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["Vs12StaticString", "deinit"]
+- !private ["Ps12_Reflectable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "C12emotilog_1_04Item"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo6NSDate"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Vs12StaticString"
+- !private "Ps12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+interface-hash: "a3cc1878792d55170831fead3eec3bbc"
